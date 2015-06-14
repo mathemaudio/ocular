@@ -2,7 +2,7 @@
 Ocular JS
 ========
 
-`Ocular JS` is a very simple unit testing library, which quotes the code along with results, making the test result much more descriptive and visually consistent.
+Ocular JS is a very simple unit testing library, which quotes the code along with results, making the test result much more descriptive and visually consistent.
 =============
 
 * Download "scripts/ocular.unit.js" file
@@ -20,4 +20,6 @@ Ocular JS
 ```
 
 You will see something like this:
+![result](https://raw.githubusercontent.com/shalmu/ocular/master/example_result.png)
+As you can see, each unit shows the code itself, which can be very useful when you have many tests.
 
