@@ -20,6 +20,8 @@ Ocular JS is a very simple unit testing library, which quotes the code along wit
 ```
 
 You will see something like this:
+
 ![result](https://raw.githubusercontent.com/shalmu/ocular/master/example_result.png)
-As you can see, each unit shows the code itself, which can be very useful when you have many tests.
+Now each unit shows the code itself, which can be very useful when you have many tests.
+
 
