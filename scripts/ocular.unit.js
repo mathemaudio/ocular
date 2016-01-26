@@ -74,7 +74,7 @@ function Ocular(moduleName, testFn) {
 
   /**
    * the name of the "assert" function.
-   * I recommend you to use one character name, like "T", for the same of clarity
+   * I recommend you to use one character name, like "T", for the sake of clarity
    * @type {string}
    */
   const T = getBetweenClose(fn, '(', ')');
@@ -139,7 +139,7 @@ function Ocular(moduleName, testFn) {
     });
 
   /**
-   * the HTML to display. Will be filled by "display" functino later.
+   * the HTML to display. Will be filled by "display" function later.
    * @type {string}
    */
   var out = '';
